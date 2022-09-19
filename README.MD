@@ -2,7 +2,7 @@
 
 ## Template to build apk by using Gradle on terminal, without using any IDE.
 
-Build a simple APK which returns a random city from a list, illustrating a simply button and Kotlin's "random()" function.
+Build a simple APK which returns a random city from a list, illustrating simple "button.setOnClickListener" method and Kotlin's "random()" function.
 
 Simple template to start and code an android project through text editor of your choice, to gain considerable speed without using existing bloated IDEs. This is ideal on old computers.
 
